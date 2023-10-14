@@ -18,7 +18,7 @@
 
 ***
 ## PERT圖
-![PERT](PERT圖.png)
+![PERT](PERT.png)
 
 ***
 ## 關鍵路徑
