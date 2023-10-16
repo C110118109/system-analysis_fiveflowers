@@ -14,11 +14,11 @@
 
 ***
 ## 甘特圖
-![甘特圖](甘特圖.jpg)
+![甘特圖](Gantt.jpg)
 
 ***
 ## PERT圖
-![PERT](PERT.jpg)
+![PERT](PERT.png)
 
 ***
 ## 關鍵路徑
