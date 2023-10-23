@@ -28,7 +28,5 @@
 |先決條件|試算表數據已經成功匯入系統。|
 |後至條件|試算表數據成功轉換為APP頁面，用戶可以開始查閱和操作數據。|
 |假設|系統使用者擁有合法的權限。|
-
-
-
 ## Figma動態模擬畫面
+![figma](https://github.com/C110118109/system-analysis_fiveflowers/assets/121861750/1b8fe9c7-878a-4692-b5d3-20161e48a0aa)
