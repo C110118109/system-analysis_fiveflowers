@@ -1,1 +1,1 @@
-![image](storyboard_(1).png).
+![image](storyboard_ (1).png)
