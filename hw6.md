@@ -1,2 +1,6 @@
 ## 分鏡板(storyboard)
 ![image](storyboard_1.png)
+![image](storyboard_2.png)
+![image](storyboard_3.png)
+![image](storyboard_4.png)
+![image](storyboard_5.png)
